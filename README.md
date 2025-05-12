@@ -332,7 +332,7 @@ public enum KeychainError: Error, Equatable {
 
 - iOS 13.0+
 - macOS 11.0+ (for Mac Catalyst)
-- Swift 5.5+
+- Swift 6+
 - Xcode 13.0+
 
 ## Testing
