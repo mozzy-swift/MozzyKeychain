@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" data-name="레이어_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 800 550">
+  <!-- Generator: Adobe Illustrator 29.5.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 141)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1 {
+        fill: #666;
+      }
+
+      .st1, .st2, .st3, .st4 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8 {
+        isolation: isolate;
+      }
+
+      .st1, .st5 {
+        font-size: 14px;
+      }
+
+      .st2, .st3, .st4 {
+        font-size: 12px;
+      }
+
+      .st2, .st9 {
+        fill: #555;
+      }
+
+      .st10 {
+        fill: url(#_무제_그라디언트);
+      }
+
+      .st3, .st5, .st7, .st8 {
+        fill: #333;
+      }
+
+      .st11 {
+        fill: #f9e3ff;
+        stroke: #e6a0e8;
+      }
+
+      .st12 {
+        fill: url(#_무제_그라디언트_4);
+      }
+
+      .st13 {
+        fill: url(#_무제_그라디언트_2);
+      }
+
+      .st14 {
+        fill: url(#_무제_그라디언트_3);
+      }
+
+      .st15, .st6 {
+        fill: #fff;
+      }
+
+      .st15, .st16, .st17 {
+        stroke: #ddd;
+      }
+
+      .st5, .st6, .st7, .st8 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .st6 {
+        font-size: 18px;
+      }
+
+      .st16 {
+        fill: #f0f0f0;
+      }
+
+      .st18 {
+        fill: #f3ffe3;
+        stroke: #c4e8a0;
+      }
+
+      .st19 {
+        fill: #e3efff;
+        stroke: #94b8f0;
+      }
+
+      .st7 {
+        font-size: 24px;
+      }
+
+      .st17 {
+        fill: #f8f8f8;
+      }
+
+      .st8 {
+        font-size: 16px;
+      }
+
+      .st20 {
+        fill: #fff4e3;
+        stroke: #ffcb8f;
+      }
+    </style>
+    <linearGradient id="_무제_그라디언트" data-name="무제 그라디언트" x1="93.81" y1="667.97" x2="94.81" y2="667.97" gradientTransform="translate(-46756 22788) scale(500 -34)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2c5ea8"/>
+      <stop offset="1" stop-color="#5b7db1"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_2" data-name="무제 그라디언트 2" x1="93.81" y1="667.97" x2="94.81" y2="667.97" gradientTransform="translate(-46756 22888) scale(500 -34)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2c5ea8"/>
+      <stop offset="1" stop-color="#5b7db1"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_3" data-name="무제 그라디언트 3" x1="93.81" y1="667.97" x2="94.81" y2="667.97" gradientTransform="translate(-46756 23048) scale(500 -34)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2c5ea8"/>
+      <stop offset="1" stop-color="#5b7db1"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_4" data-name="무제 그라디언트 4" x1="93.81" y1="667.97" x2="94.81" y2="667.97" gradientTransform="translate(-46756 23208) scale(500 -34)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2c5ea8"/>
+      <stop offset="1" stop-color="#5b7db1"/>
+    </linearGradient>
+  </defs>
+  <text class="st7" transform="translate(237.07 35)"><tspan x="0" y="0">MozzyKeychain Architecture</tspan></text>
+  <g>
+    <rect class="st15" x="150" y="60" width="500" height="80"/>
+    <rect class="st10" x="150" y="60" width="500" height="34"/>
+    <text class="st6" transform="translate(170 82)"><tspan x="0" y="0">Client Application Layer</tspan></text>
+    <rect class="st16" x="200" y="104" width="400" height="26" rx="4" ry="4"/>
+    <text class="st1" transform="translate(257.6 122)"><tspan x="0" y="0">iOS/macOS Application using MozzyKeychain</tspan></text>
+  </g>
+  <g>
+    <rect class="st15" x="150" y="160" width="500" height="140"/>
+    <rect class="st13" x="150" y="160" width="500" height="34"/>
+    <text class="st6" transform="translate(170 182)"><tspan x="0" y="0">Public API Layer</tspan></text>
+    <rect class="st19" x="180" y="204" width="200" height="80"/>
+    <text class="st8" transform="translate(199.1 225)"><tspan x="0" y="0">KeychainKit Protocol</tspan></text>
+    <text class="st2" transform="translate(204.96 245)"><tspan x="0" y="0">Public interface for keychain</tspan></text>
+    <text class="st2" transform="translate(251.98 265)"><tspan x="0" y="0">operations</tspan></text>
+    <rect class="st18" x="420" y="204" width="200" height="80"/>
+    <text class="st8" transform="translate(458.37 225)"><tspan x="0" y="0">Type Definitions</tspan></text>
+    <text class="st2" transform="translate(436.62 245)"><tspan x="0" y="0">TokenType, KeychainItemType,</tspan></text>
+    <text class="st2" transform="translate(481.98 265)"><tspan x="0" y="0">KeychainError</tspan></text>
+  </g>
+  <g>
+    <rect class="st15" x="150" y="320" width="500" height="140"/>
+    <rect class="st14" x="150" y="320" width="500" height="34"/>
+    <text class="st6" transform="translate(170 342)"><tspan x="0" y="0">Implementation Layer</tspan></text>
+    <rect class="st20" x="180" y="364" width="200" height="80"/>
+    <text class="st8" transform="translate(217.32 385)"><tspan x="0" y="0">KeychainKitImpl</tspan></text>
+    <text class="st2" transform="translate(206.63 405)"><tspan x="0" y="0">Concrete implementation of</tspan></text>
+    <text class="st2" transform="translate(225.3 425)"><tspan x="0" y="0">KeychainKit protocol</tspan></text>
+    <rect class="st11" x="420" y="364" width="200" height="80"/>
+    <text class="st8" transform="translate(444.87 385)"><tspan x="0" y="0">KeychainKitFactory</tspan></text>
+    <text class="st2" transform="translate(468.31 405)"><tspan x="0" y="0">Factory for creating</tspan></text>
+    <text class="st2" transform="translate(461.3 425)"><tspan x="0" y="0">KeychainKit instances</tspan></text>
+  </g>
+  <g>
+    <rect class="st15" x="150" y="480" width="500" height="60"/>
+    <rect class="st12" x="150" y="480" width="500" height="34"/>
+    <text class="st6" transform="translate(170 502)"><tspan x="0" y="0">Core Layer</tspan></text>
+    <rect class="st19" x="180" y="524" width="140" height="26" rx="4" ry="4"/>
+    <rect class="st20" x="330" y="524" width="140" height="26" rx="4" ry="4"/>
+    <rect class="st18" x="480" y="524" width="140" height="26" rx="4" ry="4"/>
+    <text class="st4" transform="translate(201.64 542)"><tspan x="0" y="0">Keychain Protocol</tspan></text>
+    <text class="st4" transform="translate(363.98 542)"><tspan x="0" y="0">KeychainImpl</tspan></text>
+    <text class="st4" transform="translate(508.31 542)"><tspan x="0" y="0">KeychainResult</tspan></text>
+  </g>
+  <path class="st0" d=""/>
+  <polygon class="st9" points="407 142 400 162 393 142 407 142"/>
+  <path class="st9" d="M400,160"/>
+  <path class="st0" d=""/>
+  <polygon class="st9" points="237 302 230 322 223 302 237 302"/>
+  <path class="st9" d="M230,320"/>
+  <path class="st0" d=""/>
+  <path class="st9" d="M250,360"/>
+  <path class="st0" d=""/>
+  <polygon class="st9" points="237 462 230 482 223 462 237 462"/>
+  <path class="st9" d="M230,480"/>
+  <path class="st0" d=""/>
+  <path class="st9" d="M180,470"/>
+  <path class="st0" d=""/>
+  <path class="st9" d="M330,470"/>
+  <g>
+    <rect class="st17" x="650" y="100" width="140" height="120" rx="5" ry="5"/>
+    <text class="st5" transform="translate(695.11 120)"><tspan x="0" y="0">Legend</tspan></text>
+    <rect class="st19" x="660" y="130" width="20" height="15"/>
+    <text class="st3" transform="translate(690 142)"><tspan x="0" y="0">Protocol</tspan></text>
+    <rect class="st20" x="660" y="155" width="20" height="15"/>
+    <text class="st3" transform="translate(690 167)"><tspan x="0" y="0">Implementation</tspan></text>
+    <rect class="st18" x="660" y="180" width="20" height="15"/>
+    <text class="st3" transform="translate(690 192)"><tspan x="0" y="0">Model/Data</tspan></text>
+    <rect class="st11" x="660" y="205" width="20" height="15"/>
+    <text class="st3" transform="translate(690 217)"><tspan x="0" y="0">Factory</tspan></text>
+  </g>
+</svg>

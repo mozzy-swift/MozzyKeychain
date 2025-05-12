@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- iPhone frame -->
+  <rect x="250" y="50" width="300" height="500" rx="30" ry="30" fill="#1A1A1A" />
+  <rect x="260" y="60" width="280" height="480" rx="20" ry="20" fill="#FFFFFF" />
+  
+  <!-- Status bar -->
+  <rect x="260" y="60" width="280" height="30" rx="20" ry="20" fill="#F2F2F7" />
+  <text x="280" y="80" font-family="Arial, sans-serif" font-size="12" fill="#333333">9:41</text>
+  <text x="510" y="80" font-family="Arial, sans-serif" font-size="12" fill="#333333" text-anchor="end">100%</text>
+  
+  <!-- Navigation bar -->
+  <rect x="260" y="90" width="280" height="50" fill="#F8F8F8" />
+  <text x="400" y="122" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333333" text-anchor="middle">KeychainKit Demo</text>
+  
+  <!-- Tab bar -->
+  <rect x="280" y="150" width="240" height="40" rx="8" ry="8" fill="#F2F2F7" />
+  <rect x="280" y="150" width="80" height="40" rx="8" ry="8" fill="#007AFF" />
+  <text x="320" y="175" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="middle">Tokens</text>
+  <text x="400" y="175" font-family="Arial, sans-serif" font-size="12" fill="#007AFF" text-anchor="middle">API Keys</text>
+  <text x="480" y="175" font-family="Arial, sans-serif" font-size="12" fill="#007AFF" text-anchor="middle">Custom</text>
+  
+  <!-- Content area -->
+  <text x="280" y="210" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333333">Access &amp; Refresh Token Management</text>
+  
+  <!-- Access token section -->
+  <text x="280" y="240" font-family="Arial, sans-serif" font-size="12" fill="#737373">Access Token</text>
+  <rect x="280" y="250" width="240" height="40" rx="6" ry="6" fill="#FFFFFF" stroke="#CCCCCC" />
+  <text x="290" y="275" font-family="Arial, sans-serif" font-size="12" fill="#333333">eyJhbGciOiJIUzI1NiIsInR5cC...</text>
+  
+  <!-- Access token buttons -->
+  <rect x="280" y="300" width="70" height="36" rx="6" ry="6" fill="#007AFF" />
+  <text x="315" y="323" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="middle">Save</text>
+  
+  <rect x="360" y="300" width="70" height="36" rx="6" ry="6" fill="#FFFFFF" stroke="#007AFF" />
+  <text x="395" y="323" font-family="Arial, sans-serif" font-size="12" fill="#007AFF" text-anchor="middle">Load</text>
+  
+  <rect x="440" y="300" width="70" height="36" rx="6" ry="6" fill="#FFFFFF" stroke="#FF3B30" />
+  <text x="475" y="323" font-family="Arial, sans-serif" font-size="12" fill="#FF3B30" text-anchor="middle">Delete</text>
+  
+  <!-- Refresh token section -->
+  <text x="280" y="360" font-family="Arial, sans-serif" font-size="12" fill="#737373">Refresh Token</text>
+  <rect x="280" y="370" width="240" height="40" rx="6" ry="6" fill="#FFFFFF" stroke="#CCCCCC" />
+  <text x="290" y="395" font-family="Arial, sans-serif" font-size="12" fill="#333333">refresh-token-value</text>
+  
+  <!-- Refresh token buttons -->
+  <rect x="280" y="420" width="70" height="36" rx="6" ry="6" fill="#007AFF" />
+  <text x="315" y="443" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="middle">Save</text>
+  
+  <rect x="360" y="420" width="70" height="36" rx="6" ry="6" fill="#FFFFFF" stroke="#007AFF" />
+  <text x="395" y="443" font-family="Arial, sans-serif" font-size="12" fill="#007AFF" text-anchor="middle">Load</text>
+  
+  <rect x="440" y="420" width="70" height="36" rx="6" ry="6" fill="#FFFFFF" stroke="#FF3B30" />
+  <text x="475" y="443" font-family="Arial, sans-serif" font-size="12" fill="#FF3B30" text-anchor="middle">Delete</text>
+  
+  <!-- Status message -->
+  <rect x="280" y="480" width="240" height="40" rx="8" ry="8" fill="#E3FFF4" stroke="#34C759" stroke-width="1" />
+  <circle cx="295" cy="500" r="8" fill="#34C759" />
+  <path d="M290,500 L294,504 L300,498" stroke="white" stroke-width="2" fill="none" />
+  <text x="310" y="504" font-family="Arial, sans-serif" font-size="12" fill="#333333">Access token saved successfully</text>
+  
+  <!-- App title and description -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#333333" text-anchor="middle">MozzyKeychain Example App</text>
+</svg>
